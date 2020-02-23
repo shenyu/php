@@ -4,7 +4,7 @@ solutions = [
     "name": "../microsoft/php-sdk-binary-tools",
   },
   {
-    "url": "https://github.com/php/php-src.git@origin/PHP-7.4.2",
+    "url": "https://github.com/php/php-src.git@origin/PHP-7.4.3",
     "managed": False,
     "name": "php-src",
   },
